@@ -1,1 +1,1 @@
-# linear
+# linear regression formular method
